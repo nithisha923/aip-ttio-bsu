@@ -1,0 +1,501 @@
+first_name,last_name,email,major,enrollment_year
+Danielle,Johnson,danielle.johnson@bowiestate.edu,Information Systems,2020
+Jeffrey,Doyle,jeffrey.doyle@bowiestate.edu,Computer Science,2023
+Robert,Johnson,robert.johnson@bowiestate.edu,Data Science,2020
+William,Johnson,william.johnson@bowiestate.edu,Data Science,2024
+Debra,Gardner,debra.gardner@bowiestate.edu,Data Science,2022
+Bridget,Pacheco,bridget.pacheco@bowiestate.edu,Computer Science,2020
+Helen,Peterson,helen.peterson@bowiestate.edu,Data Science,2020
+Susan,Rogers,susan.rogers@bowiestate.edu,Computer Science,2022
+Colin,Abbott,colin.abbott@bowiestate.edu,Information Systems,2019
+Jessica,Herrera,jessica.herrera@bowiestate.edu,Cybersecurity,2019
+Andrea,Calderon,andrea.calderon@bowiestate.edu,Information Systems,2023
+James,Jones,james.jones@bowiestate.edu,Data Science,2021
+Tracie,Wyatt,tracie.wyatt@bowiestate.edu,Computer Science,2022
+Joshua,Reid,joshua.reid@bowiestate.edu,Information Systems,2020
+Mitchell,Clark,mitchell.clark@bowiestate.edu,Information Systems,2024
+Sharon,Wong,sharon.wong@bowiestate.edu,Data Science,2023
+Jessica,Martin,jessica.martin@bowiestate.edu,Cybersecurity,2021
+Veronica,Bowman,veronica.bowman@bowiestate.edu,Data Science,2024
+Mark,Tate,mark.tate@bowiestate.edu,Computer Science,2020
+Lydia,Trujillo,lydia.trujillo@bowiestate.edu,Cybersecurity,2021
+Carl,Gentry,carl.gentry@bowiestate.edu,Information Systems,2020
+Diana,Foster,diana.foster@bowiestate.edu,Cybersecurity,2020
+Joseph,Wright,joseph.wright@bowiestate.edu,Information Systems,2024
+Brenda,Hurst,brenda.hurst@bowiestate.edu,Cybersecurity,2021
+Jeffrey,Bright,jeffrey.bright@bowiestate.edu,Cybersecurity,2019
+Katelyn,Callahan,katelyn.callahan@bowiestate.edu,Data Science,2024
+Ernest,Becker,ernest.becker@bowiestate.edu,Computer Science,2022
+Patrick,Ferrell,patrick.ferrell@bowiestate.edu,Information Systems,2023
+Michelle,Smith,michelle.smith@bowiestate.edu,Computer Science,2024
+Nicole,Potter,nicole.potter@bowiestate.edu,Information Systems,2019
+Kelly,Moore,kelly.moore@bowiestate.edu,Computer Science,2024
+Nancy,Baker,nancy.baker@bowiestate.edu,Data Science,2023
+Rita,Harrell,rita.harrell@bowiestate.edu,Information Systems,2024
+William,Gonzalez,william.gonzalez@bowiestate.edu,Information Systems,2020
+Amber,Osborne,amber.osborne@bowiestate.edu,Computer Science,2023
+Mario,Smith,mario.smith@bowiestate.edu,Information Systems,2021
+John,Allen,john.allen@bowiestate.edu,Computer Science,2019
+Jessica,Cabrera,jessica.cabrera@bowiestate.edu,Data Science,2020
+Donna,Arroyo,donna.arroyo@bowiestate.edu,Data Science,2021
+Allison,Obrien,allison.obrien@bowiestate.edu,Data Science,2023
+Karina,Vaughn,karina.vaughn@bowiestate.edu,Information Systems,2022
+Wanda,Santos,wanda.santos@bowiestate.edu,Cybersecurity,2023
+Shannon,Wright,shannon.wright@bowiestate.edu,Computer Science,2021
+Andrew,Spencer,andrew.spencer@bowiestate.edu,Data Science,2019
+Chad,Welch,chad.welch@bowiestate.edu,Data Science,2019
+Rebecca,Heath,rebecca.heath@bowiestate.edu,Computer Science,2023
+John,Caldwell,john.caldwell@bowiestate.edu,Data Science,2023
+David,Walls,david.walls@bowiestate.edu,Cybersecurity,2020
+Kristen,Aguirre,kristen.aguirre@bowiestate.edu,Data Science,2019
+Collin,Jordan,collin.jordan@bowiestate.edu,Cybersecurity,2022
+Stuart,Daniel,stuart.daniel@bowiestate.edu,Computer Science,2019
+Richard,Morgan,richard.morgan@bowiestate.edu,Computer Science,2020
+James,Herrera,james.herrera@bowiestate.edu,Data Science,2022
+Isaiah,Ford,isaiah.ford@bowiestate.edu,Computer Science,2022
+Lindsey,Chase,lindsey.chase@bowiestate.edu,Computer Science,2019
+Denise,Fernandez,denise.fernandez@bowiestate.edu,Computer Science,2019
+Sara,Allison,sara.allison@bowiestate.edu,Data Science,2022
+Todd,Lewis,todd.lewis@bowiestate.edu,Cybersecurity,2019
+Franklin,Smith,franklin.smith@bowiestate.edu,Cybersecurity,2021
+Sara,Glover,sara.glover@bowiestate.edu,Information Systems,2022
+Heather,Cross,heather.cross@bowiestate.edu,Cybersecurity,2020
+James,Robinson,james.robinson@bowiestate.edu,Computer Science,2023
+Jill,Brown,jill.brown@bowiestate.edu,Information Systems,2019
+Brendan,Woods,brendan.woods@bowiestate.edu,Data Science,2019
+Susan,Miller,susan.miller@bowiestate.edu,Data Science,2019
+Brooke,Leonard,brooke.leonard@bowiestate.edu,Data Science,2022
+David,Zamora,david.zamora@bowiestate.edu,Data Science,2023
+Brooke,Harvey,brooke.harvey@bowiestate.edu,Cybersecurity,2024
+Brandy,Mills,brandy.mills@bowiestate.edu,Information Systems,2020
+Elizabeth,Edwards,elizabeth.edwards@bowiestate.edu,Information Systems,2022
+David,Brewer,david.brewer@bowiestate.edu,Cybersecurity,2021
+Sarah,Walls,sarah.walls@bowiestate.edu,Computer Science,2022
+Christine,Hart,christine.hart@bowiestate.edu,Computer Science,2019
+Amanda,Wagner,amanda.wagner@bowiestate.edu,Data Science,2021
+Nicole,Suarez,nicole.suarez@bowiestate.edu,Information Systems,2021
+Eric,Bass,eric.bass@bowiestate.edu,Information Systems,2023
+Tonya,Roman,tonya.roman@bowiestate.edu,Computer Science,2024
+Lisa,Evans,lisa.evans@bowiestate.edu,Computer Science,2020
+Joseph,Preston,joseph.preston@bowiestate.edu,Data Science,2021
+Juan,Clark,juan.clark@bowiestate.edu,Information Systems,2020
+Grace,Farrell,grace.farrell@bowiestate.edu,Cybersecurity,2021
+Rebecca,Mathis,rebecca.mathis@bowiestate.edu,Computer Science,2024
+Rodney,Hill,rodney.hill@bowiestate.edu,Computer Science,2021
+Kellie,Walsh,kellie.walsh@bowiestate.edu,Information Systems,2020
+Joyce,Arnold,joyce.arnold@bowiestate.edu,Cybersecurity,2023
+Alec,Jones,alec.jones@bowiestate.edu,Data Science,2023
+Barry,Wood,barry.wood@bowiestate.edu,Data Science,2022
+David,Parker,david.parker@bowiestate.edu,Computer Science,2021
+Jason,Wright,jason.wright@bowiestate.edu,Computer Science,2021
+Kimberly,Henson,kimberly.henson@bowiestate.edu,Cybersecurity,2023
+Kara,Frost,kara.frost@bowiestate.edu,Data Science,2020
+Theresa,Cochran,theresa.cochran@bowiestate.edu,Cybersecurity,2019
+Harry,Middleton,harry.middleton@bowiestate.edu,Cybersecurity,2024
+Michelle,Cochran,michelle.cochran@bowiestate.edu,Information Systems,2020
+Kristin,Rodriguez,kristin.rodriguez@bowiestate.edu,Computer Science,2022
+Jeffrey,Velasquez,jeffrey.velasquez@bowiestate.edu,Cybersecurity,2021
+Kevin,Pope,kevin.pope@bowiestate.edu,Data Science,2020
+Andrew,Lee,andrew.lee@bowiestate.edu,Information Systems,2021
+Michelle,Rasmussen,michelle.rasmussen@bowiestate.edu,Information Systems,2021
+Darlene,Ross,darlene.ross@bowiestate.edu,Information Systems,2019
+Darrell,Waller,darrell.waller@bowiestate.edu,Data Science,2023
+Sydney,Baker,sydney.baker@bowiestate.edu,Computer Science,2023
+Ryan,Chandler,ryan.chandler@bowiestate.edu,Information Systems,2022
+Catherine,Dixon,catherine.dixon@bowiestate.edu,Cybersecurity,2023
+James,Williams,james.williams@bowiestate.edu,Cybersecurity,2019
+April,Drake,april.drake@bowiestate.edu,Data Science,2021
+Ryan,Rush,ryan.rush@bowiestate.edu,Information Systems,2023
+Lee,Charles,lee.charles@bowiestate.edu,Information Systems,2023
+Kyle,Ortiz,kyle.ortiz@bowiestate.edu,Cybersecurity,2024
+Kenneth,Martinez,kenneth.martinez@bowiestate.edu,Cybersecurity,2024
+Shelby,Byrd,shelby.byrd@bowiestate.edu,Data Science,2023
+Ashley,Sullivan,ashley.sullivan@bowiestate.edu,Computer Science,2021
+Justin,Jordan,justin.jordan@bowiestate.edu,Information Systems,2022
+Scott,Lowe,scott.lowe@bowiestate.edu,Cybersecurity,2024
+Gene,Miller,gene.miller@bowiestate.edu,Information Systems,2019
+Loretta,Potter,loretta.potter@bowiestate.edu,Information Systems,2020
+Lindsay,Hernandez,lindsay.hernandez@bowiestate.edu,Computer Science,2020
+Tracey,Carr,tracey.carr@bowiestate.edu,Computer Science,2022
+Robert,Soto,robert.soto@bowiestate.edu,Data Science,2024
+Heather,Snyder,heather.snyder@bowiestate.edu,Data Science,2020
+Diana,Smith,diana.smith@bowiestate.edu,Computer Science,2022
+Jeffery,Brock,jeffery.brock@bowiestate.edu,Cybersecurity,2019
+Angela,Lowery,angela.lowery@bowiestate.edu,Computer Science,2022
+Dennis,Marshall,dennis.marshall@bowiestate.edu,Information Systems,2022
+Cheyenne,Ball,cheyenne.ball@bowiestate.edu,Cybersecurity,2023
+Sean,Moore,sean.moore@bowiestate.edu,Cybersecurity,2022
+Jonathon,Wright,jonathon.wright@bowiestate.edu,Information Systems,2023
+Todd,Allen,todd.allen@bowiestate.edu,Cybersecurity,2019
+Jennifer,Young,jennifer.young@bowiestate.edu,Information Systems,2021
+Patricia,Miller,patricia.miller@bowiestate.edu,Data Science,2020
+Patrick,Hernandez,patrick.hernandez@bowiestate.edu,Data Science,2019
+Robert,Rivera,robert.rivera@bowiestate.edu,Cybersecurity,2022
+Bryan,Wall,bryan.wall@bowiestate.edu,Cybersecurity,2023
+Sophia,Smith,sophia.smith@bowiestate.edu,Cybersecurity,2022
+Adam,Bell,adam.bell@bowiestate.edu,Cybersecurity,2022
+Amanda,Navarro,amanda.navarro@bowiestate.edu,Data Science,2022
+Jeffrey,Graham,jeffrey.graham@bowiestate.edu,Computer Science,2022
+Matthew,Shelton,matthew.shelton@bowiestate.edu,Cybersecurity,2024
+Frederick,Mcdonald,frederick.mcdonald@bowiestate.edu,Data Science,2023
+Amanda,Meadows,amanda.meadows@bowiestate.edu,Computer Science,2019
+Dawn,Taylor,dawn.taylor@bowiestate.edu,Cybersecurity,2020
+Brent,Gray,brent.gray@bowiestate.edu,Data Science,2022
+Mark,Juarez,mark.juarez@bowiestate.edu,Cybersecurity,2021
+Karen,Decker,karen.decker@bowiestate.edu,Information Systems,2019
+Thomas,Curry,thomas.curry@bowiestate.edu,Computer Science,2021
+Jeffrey,Jones,jeffrey.jones@bowiestate.edu,Computer Science,2019
+Stefanie,Gonzalez,stefanie.gonzalez@bowiestate.edu,Computer Science,2023
+Elijah,Martinez,elijah.martinez@bowiestate.edu,Computer Science,2023
+Stacie,Marshall,stacie.marshall@bowiestate.edu,Information Systems,2021
+Gary,Lawson,gary.lawson@bowiestate.edu,Computer Science,2020
+Tami,Rodriguez,tami.rodriguez@bowiestate.edu,Computer Science,2021
+Barbara,Odonnell,barbara.odonnell@bowiestate.edu,Cybersecurity,2022
+Shelly,Gonzalez,shelly.gonzalez@bowiestate.edu,Data Science,2019
+Heidi,Turner,heidi.turner@bowiestate.edu,Computer Science,2023
+Kimberly,Reed,kimberly.reed@bowiestate.edu,Cybersecurity,2024
+Mitchell,Hunter,mitchell.hunter@bowiestate.edu,Information Systems,2019
+Melissa,Short,melissa.short@bowiestate.edu,Computer Science,2022
+Susan,Reid,susan.reid@bowiestate.edu,Cybersecurity,2024
+Eric,Thompson,eric.thompson@bowiestate.edu,Information Systems,2023
+Lindsey,Medina,lindsey.medina@bowiestate.edu,Cybersecurity,2022
+Ryan,Simon,ryan.simon@bowiestate.edu,Information Systems,2021
+Melissa,Rivas,melissa.rivas@bowiestate.edu,Computer Science,2021
+Nicole,Sanchez,nicole.sanchez@bowiestate.edu,Cybersecurity,2023
+Cheryl,Gray,cheryl.gray@bowiestate.edu,Computer Science,2022
+Melissa,White,melissa.white@bowiestate.edu,Data Science,2021
+Lauren,Peterson,lauren.peterson@bowiestate.edu,Information Systems,2023
+Alejandro,Vaughan,alejandro.vaughan@bowiestate.edu,Computer Science,2020
+Jennifer,Freeman,jennifer.freeman@bowiestate.edu,Data Science,2024
+Thomas,Joseph,thomas.joseph@bowiestate.edu,Cybersecurity,2019
+Christopher,Walker,christopher.walker@bowiestate.edu,Data Science,2021
+Elizabeth,Wood,elizabeth.wood@bowiestate.edu,Information Systems,2022
+Wendy,Pierce,wendy.pierce@bowiestate.edu,Information Systems,2024
+Shawn,Parker,shawn.parker@bowiestate.edu,Data Science,2019
+Jennifer,Stewart,jennifer.stewart@bowiestate.edu,Data Science,2020
+Javier,Washington,javier.washington@bowiestate.edu,Information Systems,2019
+Marissa,Phillips,marissa.phillips@bowiestate.edu,Information Systems,2020
+Kevin,Erickson,kevin.erickson@bowiestate.edu,Data Science,2021
+Brandon,Brown,brandon.brown@bowiestate.edu,Information Systems,2024
+Sherry,Little,sherry.little@bowiestate.edu,Cybersecurity,2019
+Monique,Andrews,monique.andrews@bowiestate.edu,Cybersecurity,2022
+Scott,Lopez,scott.lopez@bowiestate.edu,Computer Science,2021
+Shelley,Woods,shelley.woods@bowiestate.edu,Computer Science,2022
+Travis,Ray,travis.ray@bowiestate.edu,Computer Science,2020
+Edward,Hart,edward.hart@bowiestate.edu,Information Systems,2019
+Victoria,Wilson,victoria.wilson@bowiestate.edu,Cybersecurity,2023
+Caitlin,Montgomery,caitlin.montgomery@bowiestate.edu,Cybersecurity,2022
+Rebekah,Evans,rebekah.evans@bowiestate.edu,Cybersecurity,2021
+Ashley,Brown,ashley.brown@bowiestate.edu,Computer Science,2020
+Colleen,Baker,colleen.baker@bowiestate.edu,Computer Science,2020
+John,Arnold,john.arnold@bowiestate.edu,Data Science,2019
+Ricky,Norris,ricky.norris@bowiestate.edu,Cybersecurity,2021
+Antonio,Roberts,antonio.roberts@bowiestate.edu,Information Systems,2024
+Michele,Jones,michele.jones@bowiestate.edu,Data Science,2021
+Kristin,Weber,kristin.weber@bowiestate.edu,Data Science,2022
+Danny,Walker,danny.walker@bowiestate.edu,Data Science,2021
+Margaret,Jones,margaret.jones@bowiestate.edu,Data Science,2021
+Brooke,Holloway,brooke.holloway@bowiestate.edu,Information Systems,2022
+David,Barker,david.barker@bowiestate.edu,Cybersecurity,2021
+Vincent,Snyder,vincent.snyder@bowiestate.edu,Computer Science,2023
+Bill,Reynolds,bill.reynolds@bowiestate.edu,Information Systems,2023
+John,Davis,john.davis@bowiestate.edu,Computer Science,2024
+Lori,Johnston,lori.johnston@bowiestate.edu,Data Science,2022
+April,Ramos,april.ramos@bowiestate.edu,Information Systems,2020
+Wendy,Graham,wendy.graham@bowiestate.edu,Cybersecurity,2019
+Theodore,Ortiz,theodore.ortiz@bowiestate.edu,Information Systems,2024
+Daniel,Martin,daniel.martin@bowiestate.edu,Cybersecurity,2024
+Tyler,Bates,tyler.bates@bowiestate.edu,Cybersecurity,2023
+Benjamin,Miller,benjamin.miller@bowiestate.edu,Information Systems,2021
+Darrell,Barton,darrell.barton@bowiestate.edu,Computer Science,2024
+Molly,Murray,molly.murray@bowiestate.edu,Computer Science,2020
+April,Dean,april.dean@bowiestate.edu,Cybersecurity,2024
+Scott,Williams,scott.williams@bowiestate.edu,Information Systems,2023
+David,Roberts,david.roberts@bowiestate.edu,Cybersecurity,2019
+Anthony,Mccoy,anthony.mccoy@bowiestate.edu,Data Science,2024
+Eric,Pierce,eric.pierce@bowiestate.edu,Cybersecurity,2019
+Jeffrey,Skinner,jeffrey.skinner@bowiestate.edu,Computer Science,2022
+Stacey,Holland,stacey.holland@bowiestate.edu,Data Science,2022
+Sarah,Carter,sarah.carter@bowiestate.edu,Information Systems,2022
+Mary,Baird,mary.baird@bowiestate.edu,Data Science,2022
+Andrea,Reyes,andrea.reyes@bowiestate.edu,Data Science,2019
+Joshua,Tyler,joshua.tyler@bowiestate.edu,Cybersecurity,2021
+Sarah,Romero,sarah.romero@bowiestate.edu,Computer Science,2021
+Jessica,Monroe,jessica.monroe@bowiestate.edu,Cybersecurity,2020
+Sean,Washington,sean.washington@bowiestate.edu,Information Systems,2023
+Kathryn,Bennett,kathryn.bennett@bowiestate.edu,Information Systems,2020
+Tina,Allen,tina.allen@bowiestate.edu,Cybersecurity,2020
+Melissa,Jenkins,melissa.jenkins@bowiestate.edu,Information Systems,2024
+Thomas,Mcintyre,thomas.mcintyre@bowiestate.edu,Cybersecurity,2022
+Vanessa,Sparks,vanessa.sparks@bowiestate.edu,Data Science,2022
+Tammie,Martinez,tammie.martinez@bowiestate.edu,Information Systems,2019
+Morgan,Alexander,morgan.alexander@bowiestate.edu,Cybersecurity,2019
+Jennifer,Ortiz,jennifer.ortiz@bowiestate.edu,Data Science,2019
+Terrance,Costa,terrance.costa@bowiestate.edu,Information Systems,2023
+Heather,Santos,heather.santos@bowiestate.edu,Information Systems,2024
+Michele,James,michele.james@bowiestate.edu,Information Systems,2024
+Jennifer,Malone,jennifer.malone@bowiestate.edu,Computer Science,2023
+Casey,Welch,casey.welch@bowiestate.edu,Information Systems,2020
+Julie,Hamilton,julie.hamilton@bowiestate.edu,Computer Science,2024
+Jane,Garcia,jane.garcia@bowiestate.edu,Data Science,2024
+Kevin,Johnson,kevin.johnson@bowiestate.edu,Information Systems,2019
+Kelly,Brooks,kelly.brooks@bowiestate.edu,Data Science,2020
+Amanda,Knight,amanda.knight@bowiestate.edu,Data Science,2020
+Gregory,Lynch,gregory.lynch@bowiestate.edu,Cybersecurity,2023
+Felicia,Jimenez,felicia.jimenez@bowiestate.edu,Data Science,2020
+Steven,King,steven.king@bowiestate.edu,Information Systems,2024
+Albert,Ballard,albert.ballard@bowiestate.edu,Information Systems,2024
+Amy,Jones,amy.jones@bowiestate.edu,Information Systems,2023
+Kevin,Hayden,kevin.hayden@bowiestate.edu,Information Systems,2022
+Megan,Gonzalez,megan.gonzalez@bowiestate.edu,Cybersecurity,2022
+Daniel,James,daniel.james@bowiestate.edu,Information Systems,2023
+Kenneth,Lyons,kenneth.lyons@bowiestate.edu,Computer Science,2024
+Randy,Smith,randy.smith@bowiestate.edu,Computer Science,2023
+Julie,Wall,julie.wall@bowiestate.edu,Information Systems,2020
+Catherine,Gomez,catherine.gomez@bowiestate.edu,Data Science,2023
+John,Campos,john.campos@bowiestate.edu,Data Science,2024
+Colton,Burton,colton.burton@bowiestate.edu,Computer Science,2021
+Kristina,Johnson,kristina.johnson@bowiestate.edu,Information Systems,2024
+David,Browning,david.browning@bowiestate.edu,Information Systems,2024
+Robert,Gonzalez,robert.gonzalez@bowiestate.edu,Information Systems,2023
+Warren,Nelson,warren.nelson@bowiestate.edu,Data Science,2021
+Robin,Raymond,robin.raymond@bowiestate.edu,Information Systems,2024
+Monica,Brock,monica.brock@bowiestate.edu,Cybersecurity,2019
+Donald,Levy,donald.levy@bowiestate.edu,Cybersecurity,2023
+Michael,Gibbs,michael.gibbs@bowiestate.edu,Computer Science,2021
+Amanda,Gibson,amanda.gibson@bowiestate.edu,Information Systems,2023
+Parker,Little,parker.little@bowiestate.edu,Information Systems,2019
+Emily,Ruiz,emily.ruiz@bowiestate.edu,Information Systems,2023
+Jeffrey,Brown,jeffrey.brown@bowiestate.edu,Cybersecurity,2024
+Kevin,Ortiz,kevin.ortiz@bowiestate.edu,Data Science,2019
+Sophia,Torres,sophia.torres@bowiestate.edu,Cybersecurity,2019
+Colton,Clay,colton.clay@bowiestate.edu,Data Science,2022
+Shawn,Santiago,shawn.santiago@bowiestate.edu,Cybersecurity,2023
+Julia,Moore,julia.moore@bowiestate.edu,Cybersecurity,2024
+Corey,Burns,corey.burns@bowiestate.edu,Cybersecurity,2021
+Antonio,Wood,antonio.wood@bowiestate.edu,Cybersecurity,2022
+Stephanie,Foley,stephanie.foley@bowiestate.edu,Computer Science,2024
+Michael,Winters,michael.winters@bowiestate.edu,Information Systems,2019
+Raymond,Lopez,raymond.lopez@bowiestate.edu,Computer Science,2022
+Christopher,Lewis,christopher.lewis@bowiestate.edu,Computer Science,2019
+Kristin,Sanchez,kristin.sanchez@bowiestate.edu,Data Science,2023
+Jamie,Gallegos,jamie.gallegos@bowiestate.edu,Data Science,2023
+Jason,Kane,jason.kane@bowiestate.edu,Information Systems,2020
+Kristina,Carlson,kristina.carlson@bowiestate.edu,Information Systems,2020
+Vanessa,Fernandez,vanessa.fernandez@bowiestate.edu,Data Science,2019
+Donna,Johnson,donna.johnson@bowiestate.edu,Computer Science,2021
+Kristy,Young,kristy.young@bowiestate.edu,Information Systems,2019
+Grant,Williams,grant.williams@bowiestate.edu,Cybersecurity,2023
+Daniel,Brown,daniel.brown@bowiestate.edu,Cybersecurity,2021
+William,Rodriguez,william.rodriguez@bowiestate.edu,Data Science,2023
+Bradley,Logan,bradley.logan@bowiestate.edu,Information Systems,2022
+Dawn,Johnson,dawn.johnson@bowiestate.edu,Cybersecurity,2022
+Ronald,Rodriguez,ronald.rodriguez@bowiestate.edu,Cybersecurity,2019
+Rachel,Morris,rachel.morris@bowiestate.edu,Data Science,2019
+David,Weber,david.weber@bowiestate.edu,Information Systems,2022
+Virginia,Schmidt,virginia.schmidt@bowiestate.edu,Cybersecurity,2023
+Catherine,Garcia,catherine.garcia@bowiestate.edu,Computer Science,2024
+Debra,Mack,debra.mack@bowiestate.edu,Data Science,2022
+Shannon,Perez,shannon.perez@bowiestate.edu,Information Systems,2022
+Raymond,Blair,raymond.blair@bowiestate.edu,Information Systems,2022
+Larry,Scott,larry.scott@bowiestate.edu,Data Science,2024
+Sandra,Jones,sandra.jones@bowiestate.edu,Computer Science,2019
+Ryan,Garner,ryan.garner@bowiestate.edu,Information Systems,2020
+Angela,Willis,angela.willis@bowiestate.edu,Information Systems,2024
+David,Gomez,david.gomez@bowiestate.edu,Cybersecurity,2024
+Brett,Roberts,brett.roberts@bowiestate.edu,Information Systems,2021
+Dale,Romero,dale.romero@bowiestate.edu,Data Science,2024
+Timothy,Boone,timothy.boone@bowiestate.edu,Information Systems,2023
+Michael,Farmer,michael.farmer@bowiestate.edu,Data Science,2022
+Megan,Villegas,megan.villegas@bowiestate.edu,Computer Science,2023
+Sarah,Gallegos,sarah.gallegos@bowiestate.edu,Information Systems,2019
+Henry,Park,henry.park@bowiestate.edu,Information Systems,2021
+Michael,White,michael.white@bowiestate.edu,Data Science,2023
+Diane,Jones,diane.jones@bowiestate.edu,Computer Science,2019
+Julie,Lewis,julie.lewis@bowiestate.edu,Cybersecurity,2022
+Matthew,Wood,matthew.wood@bowiestate.edu,Information Systems,2023
+Caitlyn,Ware,caitlyn.ware@bowiestate.edu,Data Science,2020
+Karen,Williams,karen.williams@bowiestate.edu,Computer Science,2021
+Scott,Coleman,scott.coleman@bowiestate.edu,Cybersecurity,2022
+Joshua,Fischer,joshua.fischer@bowiestate.edu,Computer Science,2021
+Russell,Campbell,russell.campbell@bowiestate.edu,Cybersecurity,2023
+Elizabeth,Williams,elizabeth.williams@bowiestate.edu,Cybersecurity,2023
+Brian,Harris,brian.harris@bowiestate.edu,Data Science,2020
+Kathryn,Roberts,kathryn.roberts@bowiestate.edu,Computer Science,2019
+Tyler,Jordan,tyler.jordan@bowiestate.edu,Data Science,2022
+Amanda,Hall,amanda.hall@bowiestate.edu,Information Systems,2019
+Randy,Harmon,randy.harmon@bowiestate.edu,Cybersecurity,2019
+Steve,Miller,steve.miller@bowiestate.edu,Information Systems,2023
+Ruben,Sullivan,ruben.sullivan@bowiestate.edu,Cybersecurity,2021
+Darius,Smith,darius.smith@bowiestate.edu,Information Systems,2020
+Laurie,Montgomery,laurie.montgomery@bowiestate.edu,Information Systems,2019
+Samuel,Rodriguez,samuel.rodriguez@bowiestate.edu,Cybersecurity,2023
+Richard,Miller,richard.miller@bowiestate.edu,Information Systems,2024
+Matthew,Cook,matthew.cook@bowiestate.edu,Data Science,2019
+William,Wilson,william.wilson@bowiestate.edu,Data Science,2021
+Michael,Mullen,michael.mullen@bowiestate.edu,Data Science,2020
+Curtis,Scott,curtis.scott@bowiestate.edu,Data Science,2023
+Eric,Malone,eric.malone@bowiestate.edu,Computer Science,2020
+Stephanie,Burton,stephanie.burton@bowiestate.edu,Cybersecurity,2023
+Kathleen,Cole,kathleen.cole@bowiestate.edu,Information Systems,2024
+Leslie,Gonzales,leslie.gonzales@bowiestate.edu,Cybersecurity,2022
+Crystal,Hogan,crystal.hogan@bowiestate.edu,Computer Science,2021
+William,Collins,william.collins@bowiestate.edu,Cybersecurity,2019
+Brian,Decker,brian.decker@bowiestate.edu,Computer Science,2024
+Michelle,Wyatt,michelle.wyatt@bowiestate.edu,Cybersecurity,2022
+Betty,Best,betty.best@bowiestate.edu,Computer Science,2022
+Regina,Armstrong,regina.armstrong@bowiestate.edu,Data Science,2021
+Cassidy,Mason,cassidy.mason@bowiestate.edu,Computer Science,2022
+Dale,Nolan,dale.nolan@bowiestate.edu,Information Systems,2024
+Christopher,Lucas,christopher.lucas@bowiestate.edu,Computer Science,2020
+Jasmine,Ritter,jasmine.ritter@bowiestate.edu,Data Science,2021
+Nathan,Campbell,nathan.campbell@bowiestate.edu,Cybersecurity,2021
+Erika,Williams,erika.williams@bowiestate.edu,Information Systems,2019
+Mark,Grant,mark.grant@bowiestate.edu,Cybersecurity,2021
+Johnathan,York,johnathan.york@bowiestate.edu,Data Science,2021
+Christopher,Alvarado,christopher.alvarado@bowiestate.edu,Information Systems,2021
+Tammy,Hale,tammy.hale@bowiestate.edu,Cybersecurity,2020
+Brooke,Hurley,brooke.hurley@bowiestate.edu,Information Systems,2023
+Nicholas,Conner,nicholas.conner@bowiestate.edu,Data Science,2024
+Jacqueline,Valentine,jacqueline.valentine@bowiestate.edu,Computer Science,2024
+Ellen,Romero,ellen.romero@bowiestate.edu,Computer Science,2021
+Kyle,Bean,kyle.bean@bowiestate.edu,Information Systems,2022
+James,Cooke,james.cooke@bowiestate.edu,Data Science,2019
+Kenneth,French,kenneth.french@bowiestate.edu,Computer Science,2024
+Matthew,Miranda,matthew.miranda@bowiestate.edu,Data Science,2023
+Nicholas,Martin,nicholas.martin@bowiestate.edu,Data Science,2024
+Samuel,Jenkins,samuel.jenkins@bowiestate.edu,Data Science,2022
+Cheryl,Goodwin,cheryl.goodwin@bowiestate.edu,Cybersecurity,2020
+Amanda,Collins,amanda.collins@bowiestate.edu,Cybersecurity,2020
+Micheal,Valentine,micheal.valentine@bowiestate.edu,Cybersecurity,2022
+Kayla,Strickland,kayla.strickland@bowiestate.edu,Cybersecurity,2020
+Lisa,Solis,lisa.solis@bowiestate.edu,Data Science,2021
+Brett,Castillo,brett.castillo@bowiestate.edu,Information Systems,2023
+Sarah,Dawson,sarah.dawson@bowiestate.edu,Computer Science,2021
+Christopher,Martin,christopher.martin@bowiestate.edu,Cybersecurity,2023
+Dylan,Kim,dylan.kim@bowiestate.edu,Data Science,2022
+Nicole,Arias,nicole.arias@bowiestate.edu,Cybersecurity,2019
+Randy,Brooks,randy.brooks@bowiestate.edu,Cybersecurity,2019
+Nicholas,Johnson,nicholas.johnson@bowiestate.edu,Computer Science,2024
+Debra,Moody,debra.moody@bowiestate.edu,Data Science,2019
+Justin,Gallegos,justin.gallegos@bowiestate.edu,Data Science,2024
+Taylor,Gilbert,taylor.gilbert@bowiestate.edu,Computer Science,2019
+Jonathan,Conley,jonathan.conley@bowiestate.edu,Cybersecurity,2019
+Kimberly,Young,kimberly.young@bowiestate.edu,Computer Science,2019
+John,Fowler,john.fowler@bowiestate.edu,Cybersecurity,2019
+Daniel,Stein,daniel.stein@bowiestate.edu,Computer Science,2024
+Zachary,Allen,zachary.allen@bowiestate.edu,Data Science,2021
+Ruben,Mendez,ruben.mendez@bowiestate.edu,Data Science,2023
+Robert,Beck,robert.beck@bowiestate.edu,Computer Science,2023
+Theresa,Jones,theresa.jones@bowiestate.edu,Computer Science,2022
+Morgan,Williams,morgan.williams@bowiestate.edu,Cybersecurity,2021
+Jon,Smith,jon.smith@bowiestate.edu,Computer Science,2021
+John,Sandoval,john.sandoval@bowiestate.edu,Computer Science,2023
+Jill,Cook,jill.cook@bowiestate.edu,Computer Science,2021
+Amy,Li,amy.li@bowiestate.edu,Data Science,2024
+Steven,Dominguez,steven.dominguez@bowiestate.edu,Data Science,2020
+Bryan,Parsons,bryan.parsons@bowiestate.edu,Cybersecurity,2019
+Kelly,Williams,kelly.williams@bowiestate.edu,Data Science,2019
+Leslie,Collins,leslie.collins@bowiestate.edu,Cybersecurity,2023
+Thomas,Johnson,thomas.johnson@bowiestate.edu,Data Science,2021
+Michael,Norman,michael.norman@bowiestate.edu,Information Systems,2021
+David,Richardson,david.richardson@bowiestate.edu,Cybersecurity,2024
+Scott,Huber,scott.huber@bowiestate.edu,Information Systems,2020
+Tyler,Jimenez,tyler.jimenez@bowiestate.edu,Information Systems,2019
+Jessica,Miller,jessica.miller@bowiestate.edu,Data Science,2023
+Kelly,Garcia,kelly.garcia@bowiestate.edu,Information Systems,2024
+Kenneth,Griffin,kenneth.griffin@bowiestate.edu,Cybersecurity,2020
+Hannah,Bell,hannah.bell@bowiestate.edu,Computer Science,2024
+Molly,Gomez,molly.gomez@bowiestate.edu,Cybersecurity,2021
+Danielle,Moody,danielle.moody@bowiestate.edu,Computer Science,2019
+Emily,Sullivan,emily.sullivan@bowiestate.edu,Data Science,2019
+Douglas,Lawson,douglas.lawson@bowiestate.edu,Cybersecurity,2019
+David,Young,david.young@bowiestate.edu,Information Systems,2021
+Patrick,Bradley,patrick.bradley@bowiestate.edu,Data Science,2024
+Shannon,Watson,shannon.watson@bowiestate.edu,Cybersecurity,2019
+Audrey,Moreno,audrey.moreno@bowiestate.edu,Cybersecurity,2021
+Debra,Wright,debra.wright@bowiestate.edu,Computer Science,2019
+Jill,Porter,jill.porter@bowiestate.edu,Cybersecurity,2023
+David,Hampton,david.hampton@bowiestate.edu,Cybersecurity,2020
+Wendy,Mitchell,wendy.mitchell@bowiestate.edu,Cybersecurity,2020
+David,Farrell,david.farrell@bowiestate.edu,Cybersecurity,2020
+Rachel,Wallace,rachel.wallace@bowiestate.edu,Computer Science,2024
+Tammy,Downs,tammy.downs@bowiestate.edu,Information Systems,2024
+Calvin,Daniels,calvin.daniels@bowiestate.edu,Information Systems,2020
+Jennifer,Ho,jennifer.ho@bowiestate.edu,Data Science,2021
+William,Martinez,william.martinez@bowiestate.edu,Data Science,2020
+Joel,Snyder,joel.snyder@bowiestate.edu,Information Systems,2023
+Ashley,Mcdonald,ashley.mcdonald@bowiestate.edu,Data Science,2023
+Nicole,Jones,nicole.jones@bowiestate.edu,Cybersecurity,2024
+Jennifer,Fox,jennifer.fox@bowiestate.edu,Cybersecurity,2023
+Charles,Compton,charles.compton@bowiestate.edu,Computer Science,2022
+Steven,Holmes,steven.holmes@bowiestate.edu,Data Science,2023
+Danielle,White,danielle.white@bowiestate.edu,Data Science,2022
+Wesley,Oneill,wesley.oneill@bowiestate.edu,Computer Science,2023
+Eric,Martin,eric.martin@bowiestate.edu,Information Systems,2024
+Jeremiah,Meza,jeremiah.meza@bowiestate.edu,Information Systems,2019
+John,Reid,john.reid@bowiestate.edu,Information Systems,2020
+Colleen,Mendez,colleen.mendez@bowiestate.edu,Computer Science,2023
+Danielle,Vargas,danielle.vargas@bowiestate.edu,Data Science,2020
+Donna,Le,donna.le@bowiestate.edu,Information Systems,2023
+Blake,Shields,blake.shields@bowiestate.edu,Computer Science,2019
+Stacy,Wise,stacy.wise@bowiestate.edu,Information Systems,2024
+Jason,Armstrong,jason.armstrong@bowiestate.edu,Computer Science,2022
+Pamela,Gardner,pamela.gardner@bowiestate.edu,Information Systems,2022
+John,Aguirre,john.aguirre@bowiestate.edu,Cybersecurity,2021
+Shawn,Barker,shawn.barker@bowiestate.edu,Data Science,2022
+Robert,Marshall,robert.marshall@bowiestate.edu,Information Systems,2023
+Douglas,Hensley,douglas.hensley@bowiestate.edu,Information Systems,2024
+Vanessa,Reed,vanessa.reed@bowiestate.edu,Cybersecurity,2020
+Kathleen,Robertson,kathleen.robertson@bowiestate.edu,Computer Science,2021
+John,Martinez,john.martinez@bowiestate.edu,Cybersecurity,2020
+Donald,Williams,donald.williams@bowiestate.edu,Cybersecurity,2023
+Robert,Estes,robert.estes@bowiestate.edu,Data Science,2021
+Sarah,Griffith,sarah.griffith@bowiestate.edu,Data Science,2020
+Tyrone,Robertson,tyrone.robertson@bowiestate.edu,Cybersecurity,2021
+Tyler,Davis,tyler.davis@bowiestate.edu,Cybersecurity,2023
+Stephen,Allen,stephen.allen@bowiestate.edu,Information Systems,2019
+Brent,Simpson,brent.simpson@bowiestate.edu,Cybersecurity,2021
+Amanda,Boone,amanda.boone@bowiestate.edu,Cybersecurity,2020
+Nicole,Luna,nicole.luna@bowiestate.edu,Cybersecurity,2021
+Brandon,Williams,brandon.williams@bowiestate.edu,Data Science,2021
+Angela,Jones,angela.jones@bowiestate.edu,Cybersecurity,2023
+Joshua,Hays,joshua.hays@bowiestate.edu,Computer Science,2020
+Theresa,Long,theresa.long@bowiestate.edu,Information Systems,2023
+Sheila,Fischer,sheila.fischer@bowiestate.edu,Data Science,2023
+William,Porter,william.porter@bowiestate.edu,Computer Science,2019
+Derrick,Cook,derrick.cook@bowiestate.edu,Cybersecurity,2023
+Stephen,Obrien,stephen.obrien@bowiestate.edu,Data Science,2021
+Sarah,Flores,sarah.flores@bowiestate.edu,Cybersecurity,2023
+Jodi,Evans,jodi.evans@bowiestate.edu,Information Systems,2023
+Maria,Patel,maria.patel@bowiestate.edu,Information Systems,2022
+Lisa,Richardson,lisa.richardson@bowiestate.edu,Computer Science,2022
+Brandy,Robles,brandy.robles@bowiestate.edu,Computer Science,2023
+Thomas,Coffey,thomas.coffey@bowiestate.edu,Data Science,2024
+Alexandria,Griffith,alexandria.griffith@bowiestate.edu,Cybersecurity,2020
+Lorraine,Allen,lorraine.allen@bowiestate.edu,Computer Science,2020
+Andrew,Edwards,andrew.edwards@bowiestate.edu,Data Science,2022
+Hannah,Jenkins,hannah.jenkins@bowiestate.edu,Cybersecurity,2024
+Jessica,Thornton,jessica.thornton@bowiestate.edu,Data Science,2023
+Mark,Bates,mark.bates@bowiestate.edu,Cybersecurity,2021
+Sue,Stevens,sue.stevens@bowiestate.edu,Information Systems,2023
+Michael,Ingram,michael.ingram@bowiestate.edu,Information Systems,2023
+Todd,Bernard,todd.bernard@bowiestate.edu,Information Systems,2023
+Kenneth,David,kenneth.david@bowiestate.edu,Information Systems,2021
+Janet,Vaughn,janet.vaughn@bowiestate.edu,Cybersecurity,2021
+Timothy,Castro,timothy.castro@bowiestate.edu,Information Systems,2021
+David,Rhodes,david.rhodes@bowiestate.edu,Cybersecurity,2022
+Loretta,Blevins,loretta.blevins@bowiestate.edu,Data Science,2021
+Bobby,Moses,bobby.moses@bowiestate.edu,Computer Science,2021
+Sandra,Douglas,sandra.douglas@bowiestate.edu,Cybersecurity,2020
+James,Ryan,james.ryan@bowiestate.edu,Information Systems,2020
+Daniel,Yang,daniel.yang@bowiestate.edu,Data Science,2020
+Brent,Stein,brent.stein@bowiestate.edu,Data Science,2024
+Jesse,Garcia,jesse.garcia@bowiestate.edu,Information Systems,2024
+Thomas,Maldonado,thomas.maldonado@bowiestate.edu,Data Science,2019
+Tamara,Spence,tamara.spence@bowiestate.edu,Data Science,2022
+Denise,Gilmore,denise.gilmore@bowiestate.edu,Cybersecurity,2022
+Debra,Avila,debra.avila@bowiestate.edu,Information Systems,2021
+Justin,Brown,justin.brown@bowiestate.edu,Computer Science,2024
+Audrey,Nichols,audrey.nichols@bowiestate.edu,Computer Science,2020
+Robert,Monroe,robert.monroe@bowiestate.edu,Computer Science,2022
