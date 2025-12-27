@@ -18,10 +18,10 @@ hashed_password = pwd_context.hash(TEMP_PASSWORD)
 # ---------------------------
 conn = pyodbc.connect(
     "Driver={ODBC Driver 18 for SQL Server};"
-    "Server=tcp:aip-sql-student-01.database.windows.net,1433;"
-    "Database=aip_db;"
-    "Uid=aipadmin;"
-    "Pwd=Aip@12345;"
+    "Server=tcp:<AZURE_SQL_SERVER>,1433;"
+    "Database=<DATABASE_NAME>;"
+    "Uid=<DB_USERNAME>;"
+    "Pwd=<SET_VIA_ENVIRONMENT_VARIABLE>;"
     "Encrypt=yes;"
     "TrustServerCertificate=no;"
     "Connection Timeout=30;"
