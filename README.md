@@ -16,8 +16,6 @@ https://ttioaccessinnovation.systems
 👉 [https://ttioaccessinnovation.systems](https://ttioaccessinnovation.systems)
 
 
-> Note: This project is deployed on a cloud platform. GitHub hosts the source code only.
-
 ---
 
 ## 🎯 Project Objectives
@@ -151,3 +149,4 @@ Event and research management modules
 Single Sign-On (SSO)
 
 Audit logging and HTTPS enforcement
+
